@@ -1,6 +1,6 @@
 /**
 ********************************************************************************
-* @file       :   main.c
+* @file       :   full_pyramid.c
 * @version    :   1.0.0
 * @author     :   Ahmed Raafat Zidan
 * @brief      :   create a Full Pyramid as a function of its steps (No.of rows)
